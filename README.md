@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hello+%F0%9F%91%8B%2C+I'm+Divya+Dhanak)](https://git.io/typing-svg)
 
 ## :point_right: About me
-<strong> I'm an IT Developer. I am also Pursuing my Masters in Computer Application and will graduate in mid-2025. </strong>
+<strong> I'm a Front-End Developer. I am also Pursuing my Masters in Computer Application and will graduate in mid-2025. </strong>
 
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
